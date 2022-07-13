@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffloop"]
+	path = diffloop
+	url = https://github.com/aryeelab/diffloop
+	shallow = true
+	registered = true
+[submodule "scmeth"]
+	path = scmeth
+	url = https://github.com/aryeelab/scmeth
+	shallow = true
+	registered = true
