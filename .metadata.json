@@ -1,8 +1,5 @@
 [
   {
-    "package": "diffloop"
-  },
-  {
     "package": "scmeth"
   }
 ]
